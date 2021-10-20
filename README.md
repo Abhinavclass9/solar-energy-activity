@@ -1,1 +1,1 @@
-# solar-energy-activity
+# solar_power
